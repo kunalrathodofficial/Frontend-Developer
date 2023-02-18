@@ -1,0 +1,50 @@
+ h1{
+    color: blue;
+}
+a{
+    color: blueviolet;
+}
+
+ul{
+ list-style-type: square;
+}
+.Dance{
+    font-size: 45px;
+    font-weight: bold;
+}
+h1.Dance{
+    font-size: 60px;
+}
+li em{
+    color: red;
+}
+
+h1+p{
+    color:cyan;
+    font-size: 33px;
+
+}
+a:hover{
+    color: chartreuse;
+    text-decoration: solid;
+}
+
+.mj{
+    color: darkorange;
+}
+#kuku{
+    color: deeppink;
+}
+/*li[class]{
+    color: magenta;
+    font-size: 50px;
+}
+
+li[class="a"]{
+    color: greenyellow;
+} */
+
+li[class="a"]{
+    color: greenyellow;
+}
+
